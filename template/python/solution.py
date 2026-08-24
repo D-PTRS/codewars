@@ -5,7 +5,7 @@ Kyu:
 """
 
 
-def solution():
+def solve():
     pass
 
 
